@@ -76,3 +76,16 @@ figcaption {
   margin: 0 auto;
   background: gainsboro;
 }
+
+.col-1,
+.col-2 {
+  float: left;
+}
+
+.col-1 {
+  width: 32%;
+}
+
+.col-2 {
+  width: 66%;
+}
