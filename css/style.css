@@ -93,3 +93,13 @@ figcaption {
 .col-3 {
   background: slategray;
 }
+
+.col-1,
+.col-2,
+.col-3 {
+  margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
+}
